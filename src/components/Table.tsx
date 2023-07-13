@@ -32,7 +32,7 @@ function Table() {
           <tr >
             <th>ID</th>
             <th>Name</th>
-            <th>UserName</th>
+            <th>UserNames</th>
             <th>Email</th>
           </tr>
         </thead>
